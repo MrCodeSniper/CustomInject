@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyButterKnife.iml" filepath="$PROJECT_DIR$/MyButterKnife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-annotation/module-annotation.iml" filepath="$PROJECT_DIR$/module-annotation/module-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-bind/module-bind.iml" filepath="$PROJECT_DIR$/module-bind/module-bind.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-processor/module-processor.iml" filepath="$PROJECT_DIR$/module-processor/module-processor.iml" />
+    </modules>
+  </component>
+</project>
